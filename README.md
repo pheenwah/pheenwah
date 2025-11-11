@@ -1,10 +1,11 @@
 # Hi there 👋 I'm Ru Phoenix
 
-💻 **Full-Stack Web Developer** | React, TypeScript, Firebase  
+💻 **Full-Stack Web Developer**
 
 ---
 
 ### 🛠 My Tech Stack
+<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -13,11 +14,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
+</div>
 
 ---
 
 ### 🌱 Currently Building
-**PandaFlix** – a mobile-first movie discovery app using React, TypeScript, and Firebase.
+**PandaFlix** – a movie discovery app using React, TypeScript, and Firebase.
 
 ---
 
