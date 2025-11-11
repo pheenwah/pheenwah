@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ru Phoenix
+# Hi there 👋 I'm Rū Phoenix
 
 💻 **Full-Stack Web Developer**
 
