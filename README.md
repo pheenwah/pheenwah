@@ -1,15 +1,35 @@
-### Hi there 👋 I'm Ru  
+# Hi there 👋 I'm Ru Phoenix
 
-💻 I work with: 
+💻 **Full-Stack Web Developer** | React, TypeScript, Firebase  
 
-<div style={{ justifyContent: "space-between"}}>
+---
+
+### 🛠 My Tech Stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
-</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
 
+---
 
-🌱 Currently building: **PandaFlix**, a movie discovery app.
+### 🌱 Currently Building
+**PandaFlix** – a mobile-first movie discovery app using React, TypeScript, and Firebase.
+
+---
+
+### 🤝 Soft Skills
+Communication • Team Collaboration • Problem-Solving • Adaptability • Project Coordination
+
+---
+
+### 📌 Check out my repos
+- [PandaFlix](https://github.com/yourusername/pandaflix) – Movie discovery app
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/benyamin-phoenix-060ab036a/)  
