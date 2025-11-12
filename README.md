@@ -1,7 +1,6 @@
 Kia ora! My name is Rū Phoenix and I'm currently training as a Full-Stack Web Developer with Code Academy. 
 
 Based: Berlin, Germany
-Nationality: New Zealand/Germany
 
 ---
 
